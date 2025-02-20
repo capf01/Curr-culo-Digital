@@ -120,4 +120,3 @@ Comunidade open source por todas as bibliotecas e ferramentas utilizadas.
 
 Feito com ❤️ por César Augusto Pacheco. 🚀
 
-Esse README.md é abrangente e cobre todos os aspectos do projeto. Você pode personalizá-lo conforme necessário, adicionando mais detalhes ou seções específicas. 😊
