@@ -85,31 +85,7 @@ Acesse o projeto:
 
 Abra o navegador e acesse http://localhost:8080.
 
-Estrutura do Projeto
-Copy
-curriculo-digital/
-├── backend/               # Pasta do backend (Node.js)
-│   ├── src/
-│   │   ├── controllers/   # Lógica de negócio
-│   │   ├── routes/        # Rotas da API
-│   │   ├── models/        # Modelos de dados
-│   │   ├── config/        # Configurações (Firebase, banco de dados)
-│   │   └── server.js      # Ponto de entrada do backend
-│   ├── package.json       # Dependências do backend
-│   └── .env               # Variáveis de ambiente
-├── frontend/              # Pasta do frontend (Vue.js)
-│   ├── public/            # Arquivos estáticos
-│   ├── src/
-│   │   ├── assets/        # Imagens, estilos globais
-│   │   ├── components/    # Componentes reutilizáveis
-│   │   ├── views/         # Páginas (Home, Editor, Login)
-│   │   ├── router/        # Configuração de rotas
-│   │   ├── store/         # Gerenciamento de estado (Vuex)
-│   │   ├── services/      # Chamadas à API (Axios)
-│   │   └── App.vue        # Componente principal
-│   ├── package.json       # Dependências do frontend
-│   └── vue.config.js      # Configuração do Vue.js
-└── README.md              # Documentação do projeto
+
 Contribuição
 Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 
